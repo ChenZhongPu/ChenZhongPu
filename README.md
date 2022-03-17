@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am currently an Assistant Professor at SWUFE.
+
+
+![ZhongPu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenZhongPu&show_icons=true)
+
 <!--
 **ChenZhongPu/ChenZhongPu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
